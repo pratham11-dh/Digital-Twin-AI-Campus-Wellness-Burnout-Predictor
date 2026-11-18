@@ -172,10 +172,6 @@ git push origin feat/AmazingFeature
   <img src="https://github.com/arhamkac.png" width="100" style="border-radius:50%;" />
 </a>
 
-<br>
-
-<b>Sparsh Chaudhary</b> &nbsp; | &nbsp; <b>Arham Kachhara</b>
-
 </div>
 
 ---
