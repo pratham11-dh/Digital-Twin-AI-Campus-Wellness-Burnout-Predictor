@@ -160,27 +160,3 @@ git push origin feat/AmazingFeature
 
 ## 👥 Meet the Engineers
 
-<div align="center">
-
-<a href="https://github.com/sparsh2105">
-  <img src="https://github.com/sparsh2105.png" width="100" style="border-radius:50%;" />
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://github.com/arhamkac">
-  <img src="https://github.com/arhamkac.png" width="100" style="border-radius:50%;" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-<p>Released under the <a href="LICENSE">MIT License</a>.</p>
-<p><b>Built with ❤️ at AWS Builder Center Hackathon, IIT Kanpur · Ctrl C Ctrl V Engineers</b></p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=20" width="100%" />
-
-</div>
